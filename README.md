@@ -19,6 +19,7 @@ To get started with the Game Generator, follow these steps:
 
 - Node.js (version 12.x or higher)
 - npm (version 6.x or higher)
+- Access to chatGPT 4 API (https://openai.com/waitlist/gpt-4-api)
 
 ### Installation
 
