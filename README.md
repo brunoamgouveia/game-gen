@@ -25,7 +25,7 @@ To get started with the Game Generator, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/brunoamgouveia/game-generator.git
+git clone https://github.com/brunoamgouveia/game-gen.git
 ```
 
 2. Navigate to the project folder:
